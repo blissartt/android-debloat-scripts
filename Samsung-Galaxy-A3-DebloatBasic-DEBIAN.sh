@@ -16,7 +16,6 @@ fi
 
 echo "Setting up Android SKDs..."
 sudo apt install android-tools-adb android-tools-fastboot
-sudo apt install lolcat
 sleep 2
 echo "ADB was set up! 
 
