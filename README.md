@@ -6,7 +6,7 @@ Me too.
 
 These scripts are made to debloat your smartphone using the Android Debug Bridge(ADB for short) to remove unwanted packages or privacy invasive bloatware. For now only 2 scripts templates are available, the Android 8 and the Android 10 one. Still, many packages have the same name even in different devices or Android version.
 
-##DISCLAIMER: I am not resposible for anything happening to your device, these scripts are given "as is" without any warranty. Still you can contact me if you have something to ask.
+## DISCLAIMER: I am not resposible for anything happening to your device, these scripts are given "as is" without any warranty. Still you can contact me if you have something to ask.
 =====================
 
 ## Preparation
