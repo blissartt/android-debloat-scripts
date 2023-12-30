@@ -14,11 +14,10 @@ else
 fi
 
 
-#echo "Setting up Android SKDs..."
-#sudo apt install android-tools-adb android-tools-fastboot
-#sudo apt install lolcat
-#sleep 2
-#echo "ADB was set up! 
+echo "Setting up Android SKDs..."
+sudo dnf install android-tools
+sleep 2
+echo "ADB was set up! 
 
 #" | lolcat
 
