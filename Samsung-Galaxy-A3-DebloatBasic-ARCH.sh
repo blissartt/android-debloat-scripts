@@ -14,13 +14,12 @@ else
 fi
 
 
-#echo "Setting up Android SKDs..."
-#sudo apt install android-tools-adb android-tools-fastboot
-#sudo apt install lolcat
-#sleep 2
-#echo "ADB was set up! 
+echo "Setting up Android SKDs..."
+sudo pacman install android-tools
+sleep 2
+echo "ADB was set up! 
 
-#" | lolcat
+" | lolcat
 
 
 echo "Starting ADB... This will ask you for on-device confirmation.
