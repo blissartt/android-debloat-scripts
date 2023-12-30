@@ -4,7 +4,7 @@ Are you tired of buying a brand new Android smartphone, only to find it filed to
 Me too.
 
 
-These scripts are made to debloat your smartphone using the Android Debug Bridge(ADB for short) to remove unwanted packages or privacy invasive bloatware. For now only 2 scripts are available, I will and more in the future. Still, many packages have the same name even of different devices or Android version.
+These scripts are made to debloat your smartphone using the Android Debug Bridge(ADB for short) to remove unwanted packages or privacy invasive bloatware. For now only 2 scripts templates are available, the Android 8 and the Android 10 one. Still, many packages have the same name even in different devices or Android version.
 
 ##DISCLAIMER: I am not resposible for anything happening to your device, these scripts are given "as is" without any warranty. Still you can contact me if you have something to ask.
 =====================
@@ -22,24 +22,18 @@ Here's how to enable it:
 Choose your specific distro script (for example, choose the ARCH one if you are on a Arch based system).
 ========
 
-If you are on a Debian-based system, there is no need to install anything: the script will do everything for you. 
-
-If you are on a Fedora or Arch based systems you will need to install these:
-
-- lolcat
-
-- android-tools-adb
-
-- android-tools-fastboot
-
-and then run the script.
-
 ## Usage
 To use the desired script, run:
 
 chmod a+x NAME-OF-THE-SCRIPT.sh
 
 ./NAME-OF-THE-SCRIPT.sh
+
+## Why are the scripts called like Samsung phones?
+These scripts are tested on the smartphones "Samsung Galaxy A3(2017)" and "Samsung Galaxy A01 Core" but they should work on every Android 8(Oreo) and Android 10 device.
+
+The Galaxy A3 script is fro android 8.
+The Galaxy A01 Core script is for Android 10.
 
 
 
