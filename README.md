@@ -1,6 +1,6 @@
 # Android-debloat-scripts
 
-Are you tired of buying a brand new Android smartphone, only to find that it packed with pre-installed bloatware?
+Are you tired of buying a brand new Android smartphone, only to find it filed to the brim with pre-installed bloatware?
 Me too.
 
 
