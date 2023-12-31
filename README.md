@@ -1,12 +1,13 @@
 # Android-debloat-scripts
 
-Are you tired of buying a brand new Android smartphone, only to find it filed to the brim with pre-installed bloatware?
+Are you tired of buying a brand new Android smartphone, only to find it filled to the brim with pre-installed bloatware?
+
 Me too.
 
 
 These scripts are made to debloat your smartphone using the Android Debug Bridge(ADB for short) to remove unwanted packages or privacy invasive bloatware. For now only 2 scripts templates are available, the Android 8 and the Android 10 one. Still, many packages have the same name even in different devices or Android version.
 
-## DISCLAIMER: I am not resposible for anything happening to your device, these scripts are given "as is" without any warranty. if you have any problems with the scripts you can post and issue.
+## DISCLAIMER: I am not resposible for anything happening to your device, these scripts are given "as is" without any warranty. If you have any problems with the scripts you can post an issue.
 =====================
 
 ## Preparation
@@ -15,7 +16,7 @@ Here's how to enable it:
 
 1. Go to the settings app and scroll down to "About Phone".
 2. Enter the "Software information" page.
-3. Tap on the option "Build number until it asks you to confirm enabling Developer Options".
+3. Tap on the option "Build number" until it asks you to confirm enabling Developer Options.
 4. Go into the "Developer Options", find and enable USB Debugging.
 
 ## Installation
@@ -30,9 +31,9 @@ chmod a+x NAME-OF-THE-SCRIPT.sh
 ./NAME-OF-THE-SCRIPT.sh
 
 ## Why are the scripts called like Samsung phones?
-These scripts are tested on the smartphones "Samsung Galaxy A3(2017)" and "Samsung Galaxy A01 Core" but they should work on every Android 8(Oreo) and Android 10 device.
+These scripts are tested on the smartphones "Samsung Galaxy A3(2017)" and "Samsung Galaxy A01 Core" but they should work on every Android 8(Oreo) and Android 10 devices.
 
-The Galaxy A3 script is fro android 8.
+The Galaxy A3 script is for android 8.
 The Galaxy A01 Core script is for Android 10.
 
 
