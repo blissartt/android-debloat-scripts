@@ -21,6 +21,7 @@ Here's how to enable it:
 
 ## Installation
 Choose your specific distro script (for example, choose the ARCH one if you are on a Arch based system).
+
 ========
 
 ## Usage
