@@ -25,6 +25,7 @@ Choose your specific distro script (for example, choose the ARCH one if you are 
 ========
 
 ## Usage
+THESE SCRIPTS SHALL NOT BE EXXECUTED AS ROOT, EVEN IF THEY ASK YOU TO INPUT THE ROOT PASSOWRD.
 To use the desired script, run:
 
 chmod a+x NAME-OF-THE-SCRIPT.sh
