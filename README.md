@@ -24,10 +24,14 @@ Here's how to enable it:
 ## Usage
 THESE SCRIPTS SHALL NOT BE EXECUTED AS ROOT.
 To use the desired script, run:
+```bash
+chmod a+x NAME-OF-THE-SCRIPT.sh>
+```
 
-chmod a+x NAME-OF-THE-SCRIPT.sh
+```bash
+./NAME-OF-THE-SCRIPT.sh 
+```
 
-./NAME-OF-THE-SCRIPT.sh
 
 
 
