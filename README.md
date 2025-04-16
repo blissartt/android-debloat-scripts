@@ -1,3 +1,7 @@
+# **WARNING**
+## **This repo is archived, this project has moved to Codeberg**
+
+
 # Android-debloat-scripts
 
 Are you tired of buying a brand new Android smartphone, only to find it filled to the brim with pre-installed bloatware?
